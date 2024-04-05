@@ -1,0 +1,15 @@
+.cont {
+  margin-left: 17rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.form {
+  margin-top: 3rem;
+}
+
+.text {
+  position: absolute;
+  right: 3rem;
+}
