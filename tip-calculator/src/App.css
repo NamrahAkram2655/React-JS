@@ -1,0 +1,32 @@
+.bill {
+  margin: 1rem;
+}
+
+.bill label,
+input,
+select {
+  margin: 10px;
+}
+
+.bill input {
+  height: 1rem;
+  width: 15rem;
+  padding: 3px;
+}
+
+.bill label {
+  font-weight: bold;
+}
+
+.result {
+  font-weight: bold;
+  margin: 1rem;
+  padding: 5px;
+  font-size: 22px;
+}
+
+#btn button {
+  padding: 4px;
+  margin: 1rem;
+  cursor: pointer;
+}
